@@ -24,8 +24,10 @@ function viewCart() {
   }
 
   else {
-    for ( var i = 0; i < cart.length -1; )
-
+    output = "In your cart, you have "
+    for ( var i = 0; i < cart.length -1; i ++) {
+        
+    }
   }
 }
 function total() {
